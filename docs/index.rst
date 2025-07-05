@@ -1,6 +1,12 @@
 Xfinity Email Login - How to Access and Sign in your Comcast Account
 =============================================================
-Staying connected with your inbox is simple when you use the official `Xfinity Email Login <https://login.xfinity.com/login>`_ page to access your Comcast account. Whether you're at home or on the go, logging in securely helps you check emails, manage your digital preferences, and stay informed. By using the `Xfinity Email Login <https://login.xfinity.com/login>`_ portal, Comcast users can also access bundled services from one dashboard. So, whether you’re troubleshooting an issue or setting up a new device, the `Xfinity Email Login <https://login.xfinity.com/login>`_ is the key to managing your digital life with ease. Don't wait—visit the site today and complete your `comcast email account sign in <https://login.xfinity.com/login>`_ process seamlessly.
+Staying connected with your inbox is simple when you use the official Xfinity Email Login page to access your Comcast account. Whether you're at home or on the go, logging in securely helps you check emails, manage your digital preferences, and stay informed. By using the Xfinity Email Login portal, Comcast users can also access bundled services from one dashboard. So, whether you’re troubleshooting an issue or setting up a new device, the Xfinity Email Login is the key to managing your digital life with ease. Don't wait—visit the site today and complete your comcast email account sign in process seamlessly.
+
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskcomcast.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Comcast Page</a>
+   </div>
 
 Steps to Sign in to Xfinity Email
 ---------------------------------
